@@ -1,4 +1,4 @@
-# Project using AJvascript as a Backend 
+# Project using JavaScript as a Backend 
 
-This is an Project in Javascript which is made for practicing Backend Concepts
+This is an Project in JavaScript which is made for practicing Backend Concepts
 
